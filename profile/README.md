@@ -2,7 +2,7 @@
 
 ![Members of the Argo22 team in conversation at the office](./Argo22-team.png)
 
-We're **Argo22** — a software development agency from České Budějovice, Czech Republic. We build web and mobile apps, e-commerce solutions, and AI integrations for clients across energy, fintech, retail and more.
+We're **Argo22** — a software development agency from the Czech Republic. We build web and mobile apps, e-commerce solutions, and AI integrations for clients across energy, fintech, retail and more.
 
 We're spec-driven and architecture-first. That means we start with a solid plan — not a sprint zero that turns into a rewrite three months later.
 
