@@ -22,7 +22,7 @@ No vendor lock-in. Ever.
 
 Almost everything we build lives in **private repositories** — client code stays out of competitors' sight, and that's a promise we take seriously. What you see here isn't a fair representation of what we actually do.
 
-If you want to see real work: **[argo22.com/reference](https://argo22.com/reference)** has case studies and references from clients who let us talk about their projects.
+If you want to see real work: **[argo22.com/nase-prace](https://argo22.com/nase-prace/)** has case studies and references from clients who let us talk about their projects.
 
 ---
 
@@ -30,4 +30,4 @@ If you want to see real work: **[argo22.com/reference](https://argo22.com/refere
 
 We're always looking for developers who care about doing things properly — good architecture, real ownership, and work that ends up in production, not a drawer.
 
-👉 **Open positions: [argo22.com/kariera](https://argo22.com/kariera)**
+👉 **Open positions: [argo22.com/kariera](https://argo22.com/kariera/)**
